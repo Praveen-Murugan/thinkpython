@@ -14,3 +14,6 @@ def avgSpeed(distance_in_Miles, hours):
 
 timePerMile(distance_in_Miles, seconds)
 avgSpeed(distance_in_Miles, hours)
+
+
+
